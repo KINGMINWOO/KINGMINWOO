@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--[![KINGMINWOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=KINGMINWOO)](https://github.com/anuraghazra/github-readme-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KINGMINWOO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KINGMINWOO&repo=intel_1st_miniproject)](https://github.com/anuraghazra/github-readme-stats)
