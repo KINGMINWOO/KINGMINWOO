@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 #### 프로젝트 개요
 
+- 각종 센서(흔들림 감지 센서, 적외선 감지 센서 등)와 모듈(RFID, 서보모터 등)을 TCP/IP를 통해 상호 연결하여 스마트 오피스 & 재난 대비 시스템 구현
 - STM32, Arduino를 이용한 펌웨어 개발
 - TCP/IP, MaridDB를 이용한 서버 구축
 - 키워드: `#GPIO` `#PWM` `#Interrupt` `#ADC` `#USART/UART` `#I2C` `#SPI`  `#TCP/IP` `#MariaDB`
@@ -34,6 +35,11 @@ Here are some ideas to get you started:
 - 키워드: `#AI` `#Pytorch` `#OpenCV` `#YOLO` `#Qt` `#Jetson nano` `#Hailo 8`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KINGMINWOO&repo=StreetReelsFighter)](https://github.com/KINGMINWOO/StreetReelsFighter)
+
+### **<눈동자 움직임을 통한 모니터 컨트롤 시스템>**
+#### 프로젝트 개요
+- OpenCV를 이용해 눈동자의 움직임 변화를 감지 -> 모니터 컨트롤
+- 키워드: `#OpenCV` `#eye_tracking` 
 
 ### **<스마트팜(근데 이제 로봇을 곁들인..)>**
 #### 프로젝트 개요
