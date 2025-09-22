@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 #### 프로젝트 개요
 - OpenCV, Pytorch, YOLOv8을 통한 자세 추정(Pose Estimation)을 활용한 쇼츠 챌린지 따라하기 대결 프로그램 개발
 - Jetson nano, RPI 5 + Hailo 8 등의 EDGE 환경에서도 구현 & PC와 성능 비교
+- 🎉최우수 프로젝트 선정(인텔 직강)🎉
 - 키워드: `#AI` `#Pytorch` `#OpenCV` `#YOLO` `#Qt` `#Jetson nano` `#Hailo 8`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KINGMINWOO&repo=StreetReelsFighter)](https://github.com/KINGMINWOO/StreetReelsFighter)
