@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 - Jetson nano, RPI 5 + Hailo 8 등의 EDGE 환경에서도 구현 & PC와 성능 비교
 - 키워드: `#AI` `#Pytorch` `#OpenCV` `#YOLO` `#Qt` `#Jetson nano` `#Hailo 8`
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KINGMINWOO&repo=StreetReelsFighter)](https://github.com/KINGMINWOO/StreetReelsFighter)
+
 ### **<스마트팜(근데 이제 로봇을 곁들인..)>**
 #### 프로젝트 개요
 - OpenCV, YOLO, 터틀봇, 로봇 팔을 이용한 자동 경작 시스템 개발
