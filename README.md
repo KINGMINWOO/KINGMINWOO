@@ -1,4 +1,4 @@
-## Hi there 👋
+## 상상을 현실로 만드는 개발자, 김민우입니다👋
 
 <!--
 **KINGMINWOO/KINGMINWOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
