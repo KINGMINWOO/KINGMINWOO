@@ -37,10 +37,12 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KINGMINWOO&repo=StreetReelsFighter)](https://github.com/KINGMINWOO/StreetReelsFighter)
 
-### **✨눈동자 움직임을 통한 모니터 컨트롤 시스템✨**
+### **✨눈동자 움직임을 통한 모니터 컨트롤 시스템(EyeSeeYou)✨**
 #### 프로젝트 개요
 - OpenCV를 이용해 눈동자의 움직임 변화를 감지 -> 모니터 컨트롤
-- 키워드: `#OpenCV` `#eye_tracking` 
+- 키워드: `#OpenCV` `#eye_tracking`
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KINGMINWOO&repo=EyeSeeYou)](https://github.com/KINGMINWOO/EyeSeeYou)
 
 ### **✨스마트팜(근데 이제 로봇을 곁들인..)✨**
 #### 프로젝트 개요
