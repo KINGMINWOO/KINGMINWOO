@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 - STM32 펌웨어 개발을 통한 스마트팜 구현
 - TCP/IP, MariaDB, Qt를 이용한 사용자 스마트팜 관리 및 제어 시스템 개발
 - 키워드: `#ROS` `#ROBOT ARM` `#OpenCR` `#OpenCV` `#Detection` `#Classification` `#YOLO` `#Jetson nano` `#Qt` `#TCP/IP` `#MariaDB` `#STM32`
+
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KINGMINWOO&repo=INTEL_AI_SW_LAST_PROJECT)](https://github.com/KINGMINWOO/INTEL_AI_SW_LAST_PROJECT)
